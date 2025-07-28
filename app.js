@@ -1,1 +1,1 @@
-console,lig("Hello, Repository")
+console, lig("Hello, Repository on the second branch!");
