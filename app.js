@@ -1,1 +1,1 @@
-console, lig("Hello, Repository on the second branch!");
+console.log("Hello, Repository on the second branch!");
